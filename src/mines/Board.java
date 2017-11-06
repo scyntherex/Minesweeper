@@ -11,6 +11,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+@SuppressWarnings("serial")
 public class Board extends JPanel {
 	private final int NUM_IMAGES = 13;
     private final int CELL_SIZE = 15;

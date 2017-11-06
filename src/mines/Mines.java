@@ -5,6 +5,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingUtilities;
 
+@SuppressWarnings("serial")
 public class Mines extends JFrame {
 	
 	private final int FRAME_WIDTH = 250;
